@@ -1,3 +1,7 @@
-p { 
+h1 { 
+  color: blue; 
+  font-family: verdana; 
+}
+p {   
   color:red; 
 }
