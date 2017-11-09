@@ -2,10 +2,10 @@ h1 {
   font-family: arial; 
   text-align: center;
 }
+table {margin:auto;}
 table, th, td { 
   border: 1px solid black; 
-  border-collapse: collapse; 
-  margin: auto;
+  border-collapse: collapse;
  } 
 th, td { 
   padding: 5px; 
