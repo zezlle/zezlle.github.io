@@ -1,14 +1,24 @@
 h1 { 
+  font-family: arial; 
   text-align: center;
-   }
-table, th, td {
-    border: 1px solid black; 
-    border-collapse: collapse;
-  }
-th, td, tr { 
-  padding: 5px; 
-  text-align: center;
+}
+table, th, td { 
+  border: 1px solid black; 
+  border-collapse: collapse; 
  } 
-th { 
-  color: light blue; 
+th, td { 
+  padding: 5px; 
+  text-align: center; 
+} 
+p, h1, h2, h3 { 
+  text-align: center; 
+} 
+h1, h2, h3 { 
+  font-family: arial; 
+} 
+hr { 
+  color: orange;
+  background-color: orange; 
+  border-color: orange;
+  height: 20px; 
 }
