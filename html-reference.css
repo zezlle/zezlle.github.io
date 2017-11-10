@@ -2,16 +2,16 @@ h1 {
   font-family: arial; 
   text-align: center;
 }
-table {margin:auto;}
+table {margin:auto;} 
 table, th, td { 
   border: 1px solid black; 
-  border-collapse: collapse;
+  border-collapse: collapse; 
  } 
 th, td { 
   padding: 5px; 
   text-align: center; 
 } 
-p, h1, h2, h3 { 
+body { 
   text-align: center; 
 } 
 h1, h2, h3 { 
@@ -19,7 +19,12 @@ h1, h2, h3 {
 } 
 hr { 
   color: orange;
-  background-color: orange; 
   border-color: orange;
   height: 20px; 
+} 
+.orange { 
+  background-color: orange; 
+}  
+.pfont { 
+  font-family: "georgia"; 
 }
