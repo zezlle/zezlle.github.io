@@ -1,1 +1,24 @@
-
+h1 { 
+  background-color: lightblue;
+  text-align: center; 
+  font-family: arial;
+} 
+p { 
+  text-align: center; 
+  font-family: arial; 
+  font-size: 23px;
+  padding-right: 40px; 
+  padding-left: 40px;
+} 
+p {
+  border-radius: 25px;
+  border: 2px solid lightblue;
+  padding: 80px; 
+  width: 700px;
+  height: 350px;    
+}
+h2 { 
+  text-align: center;  
+  font-family: arial; 
+  font-size: 100px;
+}
