@@ -21,11 +21,11 @@ p {
   border: 2px solid red;
   padding: 80px; 
   width: 700px;
-  height: 350px;    
+  height: 350px;
+  margin:auto;
 }
 h2 { 
   text-align: center;  
   font-family: arial; 
   font-size: 100px;
 }
-img {margin:auto;}
