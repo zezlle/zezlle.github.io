@@ -1,6 +1,5 @@
 body { 
-  background-image: url("images/website background.jpg");
-  margin: auto; 
+  background-image: url("images/website background.jpg"); 
 }
 h1 { 
   background-color: red;
@@ -29,3 +28,4 @@ h2 {
   font-family: arial; 
   font-size: 100px;
 }
+img {margin:auto;}
