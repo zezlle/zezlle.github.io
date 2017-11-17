@@ -2,12 +2,12 @@ body {
   background-image: url("images/website background.jpg"); 
 }
 h1 { 
-  background-color: red;
+  background-color: orange;
   text-align: center; 
   font-family: arial;
 } 
 hr { 
-  background-color: red; 
+  background-color: orange; 
 }
 p { 
   text-align: center; 
@@ -16,7 +16,7 @@ p {
 } 
 p {
   border-radius: 25px;
-  border: 2px solid red; 
+  border: 2px solid orange; 
   width: 700px;
   height: 380px;
 }
