@@ -1,5 +1,5 @@
 body {  
-  background-image: url(website background.jpg);
+  background-image: url("website background.jpg");
 }
 h1 { 
   text-align: center; 
