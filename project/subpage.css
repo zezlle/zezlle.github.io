@@ -13,15 +13,12 @@ p {
   text-align: center; 
   font-family: arial; 
   font-size: 23px;
-  padding-right: 40px; 
-  padding-left: 40px;
 } 
 p {
   border-radius: 25px;
-  border: 2px solid red;
-  padding: 80px; 
+  border: 2px solid red; 
   width: 700px;
-  height: 350px;
+  height: 380px;
 }
 h2 { 
   text-align: center;  
