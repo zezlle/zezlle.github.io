@@ -7,6 +7,6 @@
     <link href="index.css" rel="stylesheet" type="text/css" />
   </head>
   <body>
-    <a href=/images/sunset2.jpg<a>
+    <img src='/images/sunset2.jpg'>
   </body>
 </html>
